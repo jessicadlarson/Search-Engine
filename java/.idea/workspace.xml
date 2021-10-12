@@ -13,14 +13,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0711f8ca-48ef-4376-ba63-8ccf6b822ffa" name="Default Changelist" comment="" />
+    <list default="true" id="0711f8ca-48ef-4376-ba63-8ccf6b822ffa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/search.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/util/TELog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/search/SearchDomain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/search/SearchDomain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techelevator/search/SearchEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techelevator/search/SearchEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techelevator/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techelevator/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techelevator/search/SearchDomain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techelevator/search/SearchDomain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techelevator/search/SearchEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techelevator/search/SearchEngine.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -37,6 +55,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -80,5 +99,70 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1605" height="494" key="GridCell.Tab.0.bottom" timestamp="1634001049506">
+      <screen x="61" y="23" width="2499" height="1417" />
+    </state>
+    <state width="1605" height="494" key="GridCell.Tab.0.bottom/55.23.2505.1417@55.23.2505.1417" timestamp="1633999209003" />
+    <state width="1605" height="402" key="GridCell.Tab.0.bottom/56.23.2504.1417@56.23.2504.1417" timestamp="1634000823733" />
+    <state width="1605" height="494" key="GridCell.Tab.0.bottom/61.23.2499.1417@61.23.2499.1417" timestamp="1634001049506" />
+    <state width="1680" height="402" key="GridCell.Tab.0.bottom/65.23.2495.1417@65.23.2495.1417" timestamp="1633648601025" />
+    <state width="1605" height="494" key="GridCell.Tab.0.center" timestamp="1634001049505">
+      <screen x="61" y="23" width="2499" height="1417" />
+    </state>
+    <state width="1605" height="494" key="GridCell.Tab.0.center/55.23.2505.1417@55.23.2505.1417" timestamp="1633999209003" />
+    <state width="1605" height="402" key="GridCell.Tab.0.center/56.23.2504.1417@56.23.2504.1417" timestamp="1634000823732" />
+    <state width="1605" height="494" key="GridCell.Tab.0.center/61.23.2499.1417@61.23.2499.1417" timestamp="1634001049505" />
+    <state width="1680" height="402" key="GridCell.Tab.0.center/65.23.2495.1417@65.23.2495.1417" timestamp="1633648601024" />
+    <state width="1605" height="494" key="GridCell.Tab.0.left" timestamp="1634001049505">
+      <screen x="61" y="23" width="2499" height="1417" />
+    </state>
+    <state width="1605" height="494" key="GridCell.Tab.0.left/55.23.2505.1417@55.23.2505.1417" timestamp="1633999209002" />
+    <state width="1605" height="402" key="GridCell.Tab.0.left/56.23.2504.1417@56.23.2504.1417" timestamp="1634000823732" />
+    <state width="1605" height="494" key="GridCell.Tab.0.left/61.23.2499.1417@61.23.2499.1417" timestamp="1634001049505" />
+    <state width="1680" height="402" key="GridCell.Tab.0.left/65.23.2495.1417@65.23.2495.1417" timestamp="1633648601024" />
+    <state width="1605" height="494" key="GridCell.Tab.0.right" timestamp="1634001049505">
+      <screen x="61" y="23" width="2499" height="1417" />
+    </state>
+    <state width="1605" height="494" key="GridCell.Tab.0.right/55.23.2505.1417@55.23.2505.1417" timestamp="1633999209003" />
+    <state width="1605" height="402" key="GridCell.Tab.0.right/56.23.2504.1417@56.23.2504.1417" timestamp="1634000823733" />
+    <state width="1605" height="494" key="GridCell.Tab.0.right/61.23.2499.1417@61.23.2499.1417" timestamp="1634001049505" />
+    <state width="1680" height="402" key="GridCell.Tab.0.right/65.23.2495.1417@65.23.2495.1417" timestamp="1633648601025" />
+    <state width="1605" height="494" key="GridCell.Tab.1.bottom" timestamp="1634001049506">
+      <screen x="61" y="23" width="2499" height="1417" />
+    </state>
+    <state width="1605" height="494" key="GridCell.Tab.1.bottom/55.23.2505.1417@55.23.2505.1417" timestamp="1633999209038" />
+    <state width="1605" height="494" key="GridCell.Tab.1.bottom/56.23.2504.1417@56.23.2504.1417" timestamp="1633999971089" />
+    <state width="1605" height="494" key="GridCell.Tab.1.bottom/61.23.2499.1417@61.23.2499.1417" timestamp="1634001049506" />
+    <state width="1605" height="494" key="GridCell.Tab.1.center" timestamp="1634001049506">
+      <screen x="61" y="23" width="2499" height="1417" />
+    </state>
+    <state width="1605" height="494" key="GridCell.Tab.1.center/55.23.2505.1417@55.23.2505.1417" timestamp="1633999209038" />
+    <state width="1605" height="494" key="GridCell.Tab.1.center/56.23.2504.1417@56.23.2504.1417" timestamp="1633999971089" />
+    <state width="1605" height="494" key="GridCell.Tab.1.center/61.23.2499.1417@61.23.2499.1417" timestamp="1634001049506" />
+    <state width="1605" height="494" key="GridCell.Tab.1.left" timestamp="1634001049506">
+      <screen x="61" y="23" width="2499" height="1417" />
+    </state>
+    <state width="1605" height="494" key="GridCell.Tab.1.left/55.23.2505.1417@55.23.2505.1417" timestamp="1633999209038" />
+    <state width="1605" height="494" key="GridCell.Tab.1.left/56.23.2504.1417@56.23.2504.1417" timestamp="1633999971089" />
+    <state width="1605" height="494" key="GridCell.Tab.1.left/61.23.2499.1417@61.23.2499.1417" timestamp="1634001049506" />
+    <state width="1605" height="494" key="GridCell.Tab.1.right" timestamp="1634001049506">
+      <screen x="61" y="23" width="2499" height="1417" />
+    </state>
+    <state width="1605" height="494" key="GridCell.Tab.1.right/55.23.2505.1417@55.23.2505.1417" timestamp="1633999209038" />
+    <state width="1605" height="494" key="GridCell.Tab.1.right/56.23.2504.1417@56.23.2504.1417" timestamp="1633999971089" />
+    <state width="1605" height="494" key="GridCell.Tab.1.right/61.23.2499.1417@61.23.2499.1417" timestamp="1634001049506" />
+    <state x="1409" y="431" key="RollbackChangesDialog" timestamp="1633996043179">
+      <screen x="55" y="23" width="2505" height="1417" />
+    </state>
+    <state x="1409" y="431" key="RollbackChangesDialog/55.23.2505.1417@55.23.2505.1417" timestamp="1633996043179" />
+    <state x="55" y="23" width="816" height="1378" key="dock-window-1" timestamp="1633982144500">
+      <screen x="54" y="23" width="2506" height="1417" />
+    </state>
+    <state x="55" y="23" width="816" height="1378" key="dock-window-1/54.23.2506.1417@54.23.2506.1417" timestamp="1633982144500" />
+    <state x="67" y="23" width="804" height="1378" key="dock-window-1/61.23.2499.1417@61.23.2499.1417" timestamp="1633705399431" />
+    <state x="67" y="23" width="804" height="1378" key="dock-window-1/67.23.2493.1417@67.23.2493.1417" timestamp="1633650178758" />
   </component>
 </project>

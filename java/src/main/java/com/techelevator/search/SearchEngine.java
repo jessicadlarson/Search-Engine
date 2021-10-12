@@ -1,5 +1,7 @@
 package com.techelevator.search;
 
+import com.techelevator.util.TELog;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -15,6 +17,7 @@ public class SearchEngine {
 
 	private SearchDomain sd;
 	private Map<String, List<WordLocation>> indexedWords = null;
+	private TELog teLog = new TELog();
 
 	public SearchEngine(SearchDomain sd) {
 		this.sd = sd;
@@ -22,7 +25,20 @@ public class SearchEngine {
 	}
 	
 	public void indexFiles() throws SearchEngineException, Exception {
-		// Step Five: Index files
+		List<String> fileNames = sd.getFiles();
+		int counter = 0;
+		for(String inputFile : fileNames){
+			File fileToInput = new File("data/" + inputFile);
+			try(Scanner scanner = new Scanner(fileToInput)){
+				while(scanner.hasNextLine()){
+					String line = scanner.nextLine();
+					indexWords(counter, line);
+					teLog.log(indexedWordsToString());
+				}
+				counter++;
+			}
+
+		}
 
 
 	}
